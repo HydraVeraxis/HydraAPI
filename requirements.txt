@@ -1,0 +1,10 @@
+os
+threading
+random
+discord
+flask
+dotenv
+encryption
+resend
+re
+flask_cors
