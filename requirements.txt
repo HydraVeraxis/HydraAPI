@@ -1,10 +1,6 @@
-os
-threading
-random
-discord
-flask
-dotenv
-encryption
+discord.py
+Flask
+python-dotenv
+cryptography
 resend
-re
-flask_cors
+flask-cors
