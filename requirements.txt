@@ -4,3 +4,4 @@ python-dotenv
 cryptography
 resend
 flask-cors
+gunicorn
