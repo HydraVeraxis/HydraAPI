@@ -5,3 +5,4 @@ cryptography
 resend
 flask-cors
 gunicorn
+pycryptodome
